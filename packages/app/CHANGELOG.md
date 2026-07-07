@@ -1,5 +1,13 @@
 # @papra/app
 
+## 26.6.2
+
+### Patch Changes
+
+- [#1324](https://github.com/papra-hq/papra/pull/1324) [`8a3653c`](https://github.com/papra-hq/papra/commit/8a3653c6542ae44468b7889fbfda6fab4b1a3654) Thanks [@CorentinTh](https://github.com/CorentinTh)! - Collapse the mobile menu sheet when navigating to a new page.
+
+- [#1326](https://github.com/papra-hq/papra/pull/1326) [`0247a7a`](https://github.com/papra-hq/papra/commit/0247a7a6dd55da5f27572ac31d3515962a568308) Thanks [@CorentinTh](https://github.com/CorentinTh)! - Added some database indexes for better performances.
+
 ## 26.6.1
 
 ### Patch Changes
